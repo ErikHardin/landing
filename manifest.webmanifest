@@ -1,0 +1,10 @@
+{
+  "name": "Hardin Apps",
+  "short_name": "Hardin Apps",
+  "description": "Launcher for the Hardin family apps at ech-technicalsolutions.com",
+  "start_url": "index.html",
+  "scope": "index.html",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#f6f4ef"
+}
